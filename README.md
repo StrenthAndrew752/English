@@ -20,5 +20,5 @@
 - In a bad position in which one is forced to do sth in order to aviod failure.
 ## I did what I had to do.
 - 
-- 
-- 
+## 成正比	in proportion to
+- Loss of weight is directly proportional to the rate at which the disease is progressing.
